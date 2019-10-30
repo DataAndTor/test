@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+    <html>
+    
+        <head>
+            <title> Test page 2 </title>
+       <meta charset="UTF-8">
+       <meta name="description" content="This field contains information about your page. It is usually around two sentences long.">.
+<meta name="author" content="josh mix">
+       
+        </head>
+        
+        <body>
+        <h1>    <mark>WELCOME</mark> to My Webpage number <em>2</em> </h1>
+        
+        <p>
+        life is <b>Grand!</b>
+         </p>
+    
+        <h2>  <u>Why</u> is <em>that?</em> </h2>
+  
+      <p>
+      because i'm learning to code. <br>
+     
+      <a href="file:///home/innocent-bystander/code/test.html"> back to <em>Page 1</em></a>
+      
+      
+      </p>
+      
+      <img src="file:///home/innocent-bystander/Pictures/techmeme.jpeg" alt="This is a test image" height="200" width="200">
+      <ol>
+        <li>an item</li>
+        <li>another item</li>
+        <li>another goes here</li>
+     
+        
+        
+        
+        
+      </ol>
+      <ul>
+        <li>this</li>
+        <li>is an</li>
+        <li>unordered list</li>
+        
+        
+        
+        
+        
+      </ul>
+    
+    <a href="file:///home/innocent-bystander/code/test.html">  <img src="file:///home/innocent-bystander/Pictures/techmeme.jpeg" alt="This is a test image" height="200" width="200"></a>
+      
+        </body>
+</html>
